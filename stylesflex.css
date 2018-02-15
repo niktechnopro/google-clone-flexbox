@@ -43,7 +43,8 @@ nav {
 
 /*middle section*/
 #midsection{
-    text-align: center;   
+    text-align: center;  
+    padding-bottom: 4rem; 
 }
 
 .logo {
